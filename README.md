@@ -10,15 +10,17 @@ Nesse Projeto você conhecerá um pouco dos conhecimentos que tenho em relação
 <br>
 
 ![](images/Home.png)
+<br>
 
 ## Quer conhecer o projeto?
----
 
 Para acessar clique no link: --> [currículo web]
 
+<br>
+<br>
 ## Agradecimento especial
 
-- [Geek University] por ter ensinado esse projeto [currículo web]
+- [Geek University] por ter ensinado a criar esse projeto [currículo web]
 
-[currículo web]: romulocesarsabino.github.io
+[currículo web]: https://romulocesarsabino.github.io/
 [Geek University]: https://github.com/guniversityBR
